@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #c6c6c6;
+}
+
+#stage {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%, 50%);
+}
